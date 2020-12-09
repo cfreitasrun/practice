@@ -1,0 +1,134 @@
+/*
+font-family: 'Muli', sans-serif;
+font-family: 'Righteous', cursive;
+*/
+
+.page {
+  background-color: #a0bdc7;
+  height: 1400px;
+  width: 1165px;
+  margin: 0 auto;
+}
+
+.container {
+  border: 5px solid white;
+  height: 1200px;
+  width: 968px;
+  top: 95px;
+  margin: 0 0 0 90px;
+  padding: 0px 0px 0px 0px;
+  position: absolute;
+}
+
+h1 {
+  background-color: #a0bdc7;
+  font-family: 'Muli', sans-serif;
+  font-size: 26px;
+  font-style: italic;
+  color: #4e181a;
+  margin: 72px 0px 20px 370px;
+  position: absolute;
+  text-align: center;
+  text-transform: capitalize;
+  width: 420px;
+  z-index: 100;
+}
+
+h2 {
+  font-family: 'Muli', sans-serif;
+  font-size: 18px;
+  font-style: italic;
+  height: 100px;
+  text-align: center;
+  margin-top: 40px;
+  position: relative;
+}
+
+aside {
+  float: left;
+  width: 38%;
+}
+
+h3 {
+  font-family: 'Muli', sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: bold;
+  text-align: left;
+  padding-left: 80px;
+}
+
+p {
+  font-family: 'Muli', sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  text-align: left;
+  padding-left: 0px;
+}
+
+.main-content {
+
+}
+
+.main-content .img {
+  clear: both;
+  float: right;
+}
+
+.item-area {
+  float: right;
+  width: 600px;
+}
+
+.h1down {
+  background-color: #a0bdc7;
+  font-family: 'Muli', sans-serif;
+  font-size: 28px;
+  font-style: italic;
+  font-weight: bold;
+  color: #4e181a;
+  margin: 30px 0 0 0;
+  text-align: left;
+}
+
+.item img {
+  margin: 20px 0 0 5px;
+
+}
+
+.item p {
+  float: right;
+  text-align: left;
+  margin: 40px 0px 0px -40px;
+  left: -120px;
+  position: relative;
+}
+
+.logo {
+  background-color: #a0bdc7;
+  color: #4e181a;
+  font-family: 'Righteous', cursive;
+  font-size: 36px;
+  margin: auto;
+  position: relative;
+  text-align: center;
+  top: 1270px;
+  width: 10%;
+}
+
+footer h1 {
+  font-family: 'Muli', sans-serif;
+  font-size: 22px;
+  font-weight: 900;
+  width: 60%;
+  margin: 0 auto;
+  text-align: center;
+  text-transform: uppercase;
+  position: relative;
+  top: 1300px;
+}
+
+span {
+  color: #3b5651;
+}

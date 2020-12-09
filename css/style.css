@@ -1,0 +1,185 @@
+font-family: 'Special Elite', cursive;
+font-family: 'Berkshire Swash', cursive;
+font-family: 'Pontano Sans', sans-serif;
+font-family: 'Arvo', serif;
+font-family: 'Raleway', sans-serif;
+
+.page {
+  background-color: grey;
+  width: 1500px;
+  height: 900px;
+}
+
+.container {
+  background-color: grey;
+  width: 1500px;
+  height: 900px;
+  margin: 0px auto;
+}
+
+img {
+  margin: 60px 0px 0px 220px;
+}
+
+.logo-title {
+  margin: -60px 0px 0px 300px;
+  text-align: left;
+}
+
+h1 {
+  font-family: 'Berkshire Swash', cursive;
+}
+
+.caption h3 {
+  font-family: 'Arvo', serif;
+  font-size: 24px;
+  color: lightblue;
+  line-height: 50px;
+  float: left;
+  margin: 180px 0px 0px 210px;
+  text-align: right;
+
+}
+
+.caption-photo {
+  font-family: 'Arvo', serif;
+  font-size: 24px;
+  color: lightblue;
+  line-height: 50px;
+  float: left;
+  margin: 180px 0px 0px 210px;
+  text-align: right;
+}
+
+.nav {
+  font-family: 'Pontano Sans', sans-serif;
+  font-size: 18px;
+  font-weight: bolder;
+  text-align: center;
+  text-transform: uppercase;
+  margin: -50px 0px 0px 520px;
+}
+
+.nav li {
+  color: black;
+  display: inline-block;
+  letter-spacing: 2px;
+  padding: 0px 15px 0px 15px;
+}
+
+a{
+  color: black;
+  text-decoration: none;
+}
+
+.photo {
+  background-color: white;
+  width: 250px;
+  height: 300px;
+  margin-top: 150px;
+  margin-left: 350px;
+
+}
+
+.caption_photo {
+  font-family: 'Special Elite', cursive;
+  font-size: 24px;
+  float: left;
+  text-align: center;
+  margin: 20px 0px 0px 435px;
+}
+
+.h2_name {
+  font-family: 'Arvo', serif;
+  font-size: 30px;
+  float: left;
+  text-align: center;
+  margin: 50px 0px 0px -215px;
+}
+
+h2 {
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 25px;
+}
+
+.about_me {
+  background-color: #dbd7cc;
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  float: left;
+  text-align: left;
+  position: relative;
+  margin: 0px 50px 0px 50px;
+  padding: 0px 30px 0px 30px;
+  top: -300px;
+  width: 40%;
+}
+
+p:first-of-type:first-letter {
+  font-family: 'Berkshire Swash', cursive;
+  height: 0.7em;
+  margin: 0.09em 0 -0.05em 0;
+  padding: 0 0.1em 0 0;
+  font-size: 5em;
+  line-height: 0.85em;
+  float: left;
+}
+
+.p_1 {
+  background-color: #c9c27f;
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+}
+
+.portfolio-cover {
+  background-color: pink;
+  width: 135px;
+  height: 30px;
+  margin: -45px 0 0 755px;
+  z-index: 1000;
+}
+
+.portfolio-clicked h1 {
+  font-size: 26px;
+  margin: 40px 0px 0px 280px;
+}
+
+.projects {
+  background-color: #b2c891;
+  margin-left: 680px;
+  margin-top: 100px;
+  margin-right: 140px;
+}
+
+.projects h3 {
+  border-radius: 10px;
+  font-family: 'Pontano Sans', sans-serif;
+  font-size: 20px;
+  background-color: white;
+  width: 150px;
+  height: 35px;
+  padding: 10px 0px 0px 25px;
+}
+
+.h3button_2 {
+  padding: 0px 50px 0px 0px;
+}
+
+.h3button_2 h3 a{
+padding-left: 17px;
+text-align: center;
+}
+
+.email {
+  font-family: 'Pontano Sans', sans-serif;
+  font-size: 24px;
+  font-weight: bolder;
+  letter-spacing: 5px;
+  position: sticky;
+  text-align: center;
+}
+
+footer {
+  margin-top: 6px;
+  text-align: center;
+}
